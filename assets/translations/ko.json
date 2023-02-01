@@ -1,0 +1,7 @@
+{
+  "app_name": "플러터 PJS 보일러플레이트",
+  "bottom_nav": {
+    "first": "홈",
+    "second": "사용자"
+  }
+}

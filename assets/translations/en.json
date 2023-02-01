@@ -1,0 +1,7 @@
+{
+  "app_name": "Flutter PJS Boilerplate",
+  "bottom_nav": {
+    "first": "Home",
+    "second": "User"
+  }
+}
